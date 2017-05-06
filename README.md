@@ -9,3 +9,7 @@ Example of doing cross domain messages using a secure iframe
 
 # So what is so secure about it?
 This example includes and checks the origin to assure all transactions are from known entities
+
+# Original source code
+From this blog
+http://www.panda-os.com/blog/2015/03/communicate-iframe-parent-window/
